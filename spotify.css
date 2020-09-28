@@ -108,39 +108,47 @@ ul.ul1{
     padding-top: 50px;
     margin-left: 370px;
     display: inline-block;
-    font-size: 10px;
+    font-size: 15px;
     color: white;
     position: relative;
-    top: -100px;   
+    top: -125px;   
 }
 .container2 .list1 ul{
     margin-right: 25px;
     list-style-type: none;
+}
+.container2 .list1 ul a{
     text-decoration: none;
 }
 .container2 .list2{
     position: relative;
+    display: inline-block;
     margin-top: 0px;
-    top: -50px;
-    left: -40px;
+    top: -65px;
+    left: -75px;
 }
 .container2 .list2 ul{
     list-style-type: none;
+}
+.container2 .list2 ul a{
     text-decoration: none;
 }
 .container2 .list3{
     position: relative;
-    top: -110px;
+    top: -135px;
+    left: -70px;
 }
 .container2 .list3 ul{
     list-style-type: none;
+}
+.container2 .list3 ul a{
     text-decoration: none;
 }
 .container2 .list2,.list3{
     margin-top: 50px;
     display: inline-block;
     color: white;
-    font-size: 10px;
+    font-size: 15px;
     margin-left: 125px;
 }
 .container2 li{
@@ -149,10 +157,11 @@ ul.ul1{
 .container2 .spotify .spoti{
     margin-left: 120px;
     margin-right: -3px;
+    
 }
 .container2 .spotify ul li{
     display: inline-block;
-    color: white;
+    color: rgb(145,148,150);
     font-size: 15px;
     margin-top: 70px;
     margin-left: 50px;
@@ -174,13 +183,13 @@ ul.ul1{
     display: inline-block;
     position: relative;
     top: -200px;
-    right: -250px;
+    right: -80px;
     border: none;
 }
 .container2 .logolar button{
     margin-right: 20px;
-    height: 60px;
-    width: 60px;
+    height: 45px;
+    width: 45px;
     border: none;
     border-radius: 50%;
 }
